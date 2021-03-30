@@ -4,9 +4,8 @@
 ____
 
 
-*   <a href="https://discord.gg/invite/wasvwrN8xV">
-      <img align="center" alt="Discord" src="https://img.shields.io/discord/721688296539029625?color=%237289DA&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge">
-    </a>
+* Join my server: https://discord.gg/wasvwrN8xV
+
     
 
 * check out https://slippinggitty.github.io for a directory of all my stuff
