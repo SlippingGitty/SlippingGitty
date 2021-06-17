@@ -2,12 +2,7 @@
 
 
 ____
-
-
-* Join my server: https://discord.gg/wasvwrN8xV
-
     
-
 * check out https://slippinggitty.github.io for a directory of all my stuff
 
 
