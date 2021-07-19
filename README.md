@@ -3,12 +3,9 @@
 
 ____
     
-* check out https://slippinggitty.github.io for a directory of all my stuff
-
-
 ### About me:
 dude does anyone even read these? ill edit this when im not making stupid garbage like vozercord and token shitter
 
 btw the avatar isnt me
 
-
+https://slippinggitty.github.io
