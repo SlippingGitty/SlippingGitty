@@ -9,3 +9,5 @@ dude does anyone even read these? ill edit this when im not making stupid garbag
 btw the avatar isnt me
 
 https://slippinggitty.github.io
+
+https://discord.gg/bdpPA8qdMT
