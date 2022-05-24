@@ -1,4 +1,4 @@
 Welcome, welcome. 👋
 
 * https://slippinggitty.github.io
-* https://discord.gg/WAnbhjVGtB
+* https://discord.gg/xWYMgbD28p
