@@ -2,7 +2,7 @@
 Welcome, welcome. 👋
 </p>
 <p align='center'> 
-https://slippinggitty.github.io
+https://slippinggitty.github.io |
 https://discord.gg/xWYMgbD28p
 
 </p>
