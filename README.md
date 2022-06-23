@@ -8,6 +8,5 @@ https://discord.gg/xWYMgbD28p
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlippingGitty&theme=dark&show_icons=true&count_private=true)" height="180">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlippingGitty&theme=dark&show_icons=true&count_private=true" height="180">
 </p>
