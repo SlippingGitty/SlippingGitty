@@ -2,9 +2,7 @@
 Welcome, welcome. 👋
 </p>
 <p align='center'> 
-https://slippinggitty.github.io |
-https://discord.gg/xWYMgbD28p
-
+https://slippinggitty.github.io 
 </p>
 
 <p align="center">
