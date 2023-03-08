@@ -36,7 +36,7 @@ A Discord theme inspired by iOS 6
 Elk.zone, but like the macOS Twitter App
 <details>
 <summary>Screenshot</summary>
-<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/223297285-fca324e8-0b34-44a1-83d2-d618f649b6c3.png">
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/223629857-21a1ea80-0d08-4dac-bf20-bb14747a8217.png">
 </details>
 
 ### Espresso Elk
