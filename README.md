@@ -1,5 +1,6 @@
 <h1 align="center"> Welcome, welcome! <3</h1>
 <p align="center">Have a look at some of my more actively maintained projects 👋</p>
+<p align="center">https://discord.gg/na2GdxtD</p>
 
 ## Discord Themes
 
