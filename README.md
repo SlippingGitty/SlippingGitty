@@ -20,14 +20,22 @@ A Discord Theme inspired by macOS & Human Interface Guidelines.
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/surCord/main/assets/Untitledpreview.png">
 </details>
-
+  
 ### SlideToUnlock
 A Discord theme inspired by iOS 6
 <details>
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://raw.githubusercontent.com/SlippingGitty/SlideToUnlock/main/screenshots/aCCIaKvdkM.png">
 </details>
+  
+### WinClassic
+It sucks less.
+<details>
+<summary>Screenshot</summary>
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://files.catbox.moe/qcjfyz.png">
 </details>
+</details>
+  
 
 ## Vendetta Discord Themes
 
