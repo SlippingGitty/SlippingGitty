@@ -3,6 +3,7 @@
 <p align="center">https://discord.gg/na2GdxtD</p>
 
 ## Discord Themes
+https://github.com/SlippingGittys-Discord-Themes
 
 <details>
 <summary>Click Me!</summary>
