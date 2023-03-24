@@ -34,6 +34,14 @@ It sucks less.
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://files.catbox.moe/qcjfyz.png">
 </details>
+  
+### Cozy202K
+Discord Theme based on LeoRicharte's concept art
+<details>
+<summary>Screenshot</summary>
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://camo.githubusercontent.com/4deebf5bfca928b114056e7a98ae2536d307d024a71e513d1d511da2f1099279/68747470733a2f2f692e696d6775722e636f6d2f4d495465396f552e706e67">
+  
+</details>
 </details>
   
 
