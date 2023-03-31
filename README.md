@@ -45,7 +45,7 @@ Discord Theme based on LeoRicharte's concept art
 </details>
   
 
-## Vendetta Discord Themes
+## [Vendetta Discord Themes](https://github.com/SlippingGittys-Discord-Themes/Vozdetta)
 
 <details>
 <summary>Hey hey! Click me also!</summary>
