@@ -107,5 +107,12 @@ A colorful userstyle which aims to make Mastodon pretty!
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/210600274-e0d519bf-3e5a-4964-a16c-73319abbbdea.png">
 </details>
+ 
+ ### MaterialMastodon
+An attempt to recreate ModernDeck's look and feel for Mastodon instances
+<details>
+<summary>Screenshot</summary>
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/239781926-a5bd3867-f370-46af-ac1f-c8b494b33f68.png">
+</details>
 </details>
 
