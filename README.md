@@ -27,6 +27,13 @@ A Discord Theme inspired by macOS & Human Interface Guidelines.
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://raw.githubusercontent.com/SlippingGittys-Discord-Themes/surCord/main/assets/Untitledpreview.png">
 </details>
+
+### Accord
+A mime of Accord, but it's a theme for ![vencord](https://camo.githubusercontent.com/6388d522042f06b5f5d22cd685d5924c8908523a56bcf0160cfc255e663812be/68747470733a2f2f646973636f72642d657874656e73696f6e732e6769746875622e696f2f6173736574732f69636f6e732f76656e636f72642e676966) [Vencord](https://github.com/Vendicated/Vencord), based on [surCord](https://github.com/SlippingGittys-Discord-Themes/surCord)!
+<details>
+<summary>Screenshot</summary>
+<img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/232929038-daa34123-c79c-4f6b-a074-3c29cfebf40b.png">
+</details>
   
 ### SlideToUnlock
 A Discord theme inspired by iOS 6
