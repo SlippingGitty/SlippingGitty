@@ -14,12 +14,14 @@ A soft and colorful Discord theme with liberal inspiration from Material Design
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/221325728-f1fd1419-11d4-4cdb-b4ac-e61709dea5f0.png">
 </details>
 
- ### Bouquet
- A RosiePink/RosieCord inspired Discord theme
- <details>
- <summary>Screenshot</summary>
- <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/230688058-d0592511-d38a-4a21-a273-cff4ab5c1330.png">  
- </details>
+### Notheme
+a discord theme inspired by.... nothing at all.
+<details>
+<summary>Screenshot</summary>
+ 
+![image](https://github.com/SlippingGitty/SlippingGitty/assets/76500838/9c5fe03b-49a4-443f-bc5f-50ad9d67feea)
+
+</details>
   
 ### surCord
 A Discord Theme inspired by macOS & Human Interface Guidelines.
@@ -48,6 +50,13 @@ It sucks less.
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://files.catbox.moe/qcjfyz.png">
 </details>
+
+### Bouquet
+ A RosiePink/RosieCord inspired Discord theme
+ <details>
+ <summary>Screenshot</summary>
+ <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/230688058-d0592511-d38a-4a21-a273-cff4ab5c1330.png">  
+ </details>
   
 ### Cozy202K
 Discord Theme based on LeoRicharte's concept art
