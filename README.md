@@ -99,11 +99,20 @@ You ever looked outside around supper time and thought, "dang, i kinda wish disc
   
 </details>
   
-## Mastodon/Elk Client Userstyles
+## Mastodon/Elk/Threads Client Userstyles
 <details>
 <summary>Oh, oh! Click me too!</summary>
 
-### macOS Elk
+ ### [Thritter](https://github.com/Cinnab0nBak3ry/Thritter-for-Threads/tree/main)
+It's old Twitter, but on Threads
+<details>
+<summary>Screenshot</summary>
+
+![SCR-20230824-mgru](https://github.com/Cinnab0nBak3ry/Thritter-for-Threads/assets/76500838/73839b69-2532-4d3c-89a5-dbaac6d3c965)
+
+</details>
+
+### [macOS Elk](https://github.com/Cinnab0nBak3ry/macOSElk-UserStyle)
 Elk.zone, but like the macOS Twitter App
 <details>
 <summary>Screenshot</summary>
