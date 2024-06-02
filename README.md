@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome, welcome! <3</h1>
 <p align="center">Have a look at some of my more actively maintained projects 👋</p>
 
-## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes)
+## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (No more feature updates, only maintenance.)
 
 <details>
 <summary>Click Me!</summary>
@@ -66,35 +66,6 @@ Discord Theme based on LeoRicharte's concept art
 
   
 </details>
-  
-
-## [Vendetta Discord Themes](https://github.com/SlippingGittys-Discord-Themes/Vozdetta)
-
-<details>
-<summary>Hey hey! Click me also!</summary>
-  
-### Cozy202K
-A color scheme based on [LeoRicharte's concept art.](https://support.discord.com/hc/user_images/tjTxmvyJTRtuwQnIHuGnYQ.png)
-<details>
-<summary>Screenshots</summary>
-  
-![Image2](https://user-images.githubusercontent.com/76500838/226142498-30d8f0dc-86be-4038-a2b9-145bf2c29ac7.png)
-
-![Image1](https://user-images.githubusercontent.com/76500838/226142497-81e9c96a-6fa3-4d51-9b23-fc5986b8578c.png)
-</details>
-  
-### Evening
-You ever looked outside around supper time and thought, "dang, i kinda wish discord looked like that...". Well look outside no more c: 
-<details>
-<summary>Screenshots</summary>
-  
- ![1](https://user-images.githubusercontent.com/76500838/226432282-b5c0e134-b1fa-46a2-b1de-8c6c5ee44ae7.png)
-
- ![1 2](https://user-images.githubusercontent.com/76500838/226432314-d71f559d-250a-474e-937a-8891a2046e8e.png)
-
-
-</details>
-  
   
 </details>
   
