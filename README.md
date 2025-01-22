@@ -1,11 +1,15 @@
 <h1 align="center"> Welcome, welcome! <3</h1>
 <p align="center">Here, take a look at some projects I think you'll enjoy the most 👋</p>
 
-
+## Latest Project
+<details>
+<summary>Twitter for BlueSky</summary>
+ 
 ## [Twitter for BlueSky](https://github.com/SlippingGitty/Formerly-Twitter-for-BlueSky)
 BlueSky, with a Tweest! This userstyle changes the BlueSky branding (icons, fonts, logos, and more!) to look like it's sibling Twitter (or X!)
 ![394106822-4401bbc2-b051-4d30-be3d-ac7a44106ab4](https://github.com/user-attachments/assets/5fd0d15a-889c-4a39-9e9a-5c832b259bff)
 
+</details>
 
 ## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (surCord will always be updated, others WILL varry)
 
