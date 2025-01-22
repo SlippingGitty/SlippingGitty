@@ -1,7 +1,13 @@
 <h1 align="center"> Welcome, welcome! <3</h1>
-<p align="center">Have a look at some of my more actively maintained projects 👋</p>
+<p align="center">Here, take a look at some projects I think you'll enjoy the most 👋</p>
 
-## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (No more feature updates, only maintenance.)
+
+## [Twitter for BlueSky](https://github.com/SlippingGitty/Formerly-Twitter-for-BlueSky)
+BlueSky, with a Tweest! This userstyle changes the BlueSky branding (icons, fonts, logos, and more!) to look like it's sibling Twitter (or X!)
+![394106822-4401bbc2-b051-4d30-be3d-ac7a44106ab4](https://github.com/user-attachments/assets/5fd0d15a-889c-4a39-9e9a-5c832b259bff)
+
+
+## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (surCord will always be updated, others WILL varry)
 
 <details>
 <summary>Click Me!</summary>
@@ -73,7 +79,7 @@ Discord Theme based on LeoRicharte's concept art
 <details>
 <summary>Oh, oh! Click me too!</summary>
 
- ### [Thritter](https://github.com/Cinnab0nBak3ry/Thritter-for-Threads/tree/main)
+ ### [Thritter](https://github.com/Cinnab0nBak3ry/Thritter-for-Threads/tree/main) (No longer updated)
 It's old Twitter, but on Threads
 <details>
 <summary>Screenshot</summary>
@@ -89,21 +95,21 @@ Elk.zone, but like the macOS Twitter App
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/223629857-21a1ea80-0d08-4dac-bf20-bb14747a8217.png">
 </details>
 
-### Espresso Elk
+### Espresso Elk (No longer updated)
 A colorful userstyle which aims to make Elk.zone pretty!
 <details>
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/216854114-2f56a17d-b5ee-43f1-b36e-6c928a4bd467.png">
 </details>
 
-### Espresso Mastodon
+### Espresso Mastodon (No longer updated)
 A colorful userstyle which aims to make Mastodon pretty!
 <details>
 <summary>Screenshot</summary>
 <img width="1439" alt="Screenshot 2023-02-04 at 6 01 19 PM" src="https://user-images.githubusercontent.com/76500838/210600274-e0d519bf-3e5a-4964-a16c-73319abbbdea.png">
 </details>
  
- ### MaterialMastodon
+ ### MaterialMastodon (No longer updated)
 An attempt to recreate ModernDeck's look and feel for Mastodon instances
 <details>
 <summary>Screenshot</summary>
