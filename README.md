@@ -11,7 +11,7 @@ BlueSky, with a Tweest! This userstyle changes the BlueSky branding (icons, font
 
 </details>
 
-## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (surCord will always be updated, others WILL varry)
+## [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (never updating to new layout)
 
 <details>
 <summary>Click Me!</summary>
@@ -79,7 +79,7 @@ Discord Theme based on LeoRicharte's concept art
   
 </details>
   
-## Mastodon/Elk/Threads Client Userstyles
+## Mastodon/Elk/Threads Client Userstyles (no longer updated)
 <details>
 <summary>Oh, oh! Click me too!</summary>
 
