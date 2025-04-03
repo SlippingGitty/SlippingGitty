@@ -1,5 +1,4 @@
-<h1 align="center"> Welcome, welcome! <3</h1>
-<p align="center">Here, take a look at some projects I think you'll enjoy the most 👋</p>
+<h1 align="center"> sup homo </h1>
 
 ## Latest Project
 <details>
