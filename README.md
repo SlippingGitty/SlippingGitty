@@ -1,4 +1,4 @@
-<h1 align="center"> sup homo </h1>
+<h1 align="center"> sup faggot </h1>
 
 ## Latest Project
 <details>
