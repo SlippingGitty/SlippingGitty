@@ -12,7 +12,7 @@ BlueSky, with a Tweest! This userstyle changes the BlueSky branding (icons, font
 
 ____
 
-#### [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (never updating to new layout)
+#### [Discord Themes](https://github.com/SlippingGittys-Discord-Themes) (Fixes are Work in Progress)
 
 <details>
 <summary>Click Me!</summary>
